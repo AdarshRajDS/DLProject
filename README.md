@@ -22,6 +22,7 @@ The dataset is divided into two folders:
 
 - `mold/` — images containing visible mold
 - `nomold/` — clean surfaces with **no mold**
+- `Dataset` - https://drive.google.com/file/d/1Vm1Ff9qb1JCLTmkXXwV9yuGm7G27540i/view?usp=sharing
 
 Images are resized and augmented using:
 - Random horizontal flip  
